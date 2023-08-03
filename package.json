@@ -1,0 +1,24 @@
+{
+  "name": "examensymfony",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/islem9000/examensymfony"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "watch": "^1.0.2"
+  },
+  "devDependencies": {
+    "@symfony/webpack-encore": "^4.4.0"
+  }
+}
